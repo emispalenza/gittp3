@@ -1,2 +1,4 @@
 nombre
 apellido
+dni
+ciudad
